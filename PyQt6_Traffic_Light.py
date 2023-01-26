@@ -1,4 +1,3 @@
-```
 from PyQt6.QtWidgets import QWidget, QVBoxLayout, QPushButton, QApplication
 from PyQt6.QtCore import QTimer
 import sys
@@ -48,5 +47,3 @@ window = MainWIdget()
 window.show()
 
 sys.exit(app.exec())
-
-```
